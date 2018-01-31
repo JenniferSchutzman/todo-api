@@ -1,0 +1,20 @@
+{
+  "name": "todo-api",
+  "version": "0.0.1",
+  "description": "a very cool api to manage a list of todos.",
+  "main": "api.js",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "ramda",
+    "expressjs"
+  ],
+  "author": "JenniferSchutzman",
+  "license": "ISC"
+}
